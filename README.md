@@ -15,4 +15,4 @@ Topics covered in this repository include but are not limited to:
 9. Multivariate Vector Autoregressive (VAR) Models
 10. Cointegeration and Spurious Regressions
 
-Comments, suggestions are alaways welcome. Thanks.
+Comments, suggestions are always welcome. Thanks.
