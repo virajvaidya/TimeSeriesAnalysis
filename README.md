@@ -7,7 +7,7 @@ Topics covered in this repository include but are not limited to:
 1. Regression Models
 2. Moving Average(MA) Models
 3. Autoregressive (AR) Models
-4. Autoregressive Moving Average (ARMA) Models
+4. Autoregressive Integrated Moving Average (ARIMA) Models
 5. Stationarity, Seasonality, Unit Root Tests
 6. Forecasting in the above models with Seasonal Variations, Business Cycle Variations, Trends, Volatility etc.
 7. Autoregressive Conditional Heteroskedastic (ARCH) Models
