@@ -1,4 +1,4 @@
-:stopwatch: #Time Series Analysis :technologist:
+# :stopwatch: Time Series Analysis :technologist:
 
 A collection of assessments in Time Series Analysis completed as part of my Econometrics program. I intend this particular repository to focus on Forecasting Models in Python.
 I have used Google's Cloud-based Colaboratory Jupyter IDE for the purposes of this repository.
