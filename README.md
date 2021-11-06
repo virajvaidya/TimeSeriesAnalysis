@@ -10,12 +10,20 @@ Topics covered in this repository include but are not limited to:
 2. Moving Average(MA) Models
 3. Autoregressive (AR) Models
 4. Autoregressive Integrated Moving Average (ARIMA) Models
-5. Stationarity, Seasonality, Unit Root Tests
-6. Forecasting in the above models with Seasonal Variations, Business Cycle Variations, Trends, Volatility etc.
-7. Autoregressive Conditional Heteroskedastic (ARCH) Models
-8. Generalised Autoregressive Conditional Heteroskedastic (GARCH) Models
-9. Multivariate Vector Autoregressive (VAR) Models
-10. Cointegeration and Spurious Regressions
+5. Stationarity and its tests
+6. Forecasting with Seasonal Variations, Business Cycle Variations, Trends, Volatility etc.
+7. Differencing 
+8. Correlation and Autocorrelation Functions(ACF)
+9. Impulse Response Functions(IRF)
+10. Augmented Dickey-Fuller Test(ADF)
+11. Granger Causality Test
+12. Ljung-Box Test
+13. Bayesian Information Criterion
+14. Akaike Information Criterion
+15. Autoregressive Conditional Heteroskedastic (ARCH) Models
+16. Generalised Autoregressive Conditional Heteroskedastic (GARCH) Models
+17. Multivariate Vector Autoregressive (VAR) Models
+18. Cointegeration and Spurious Regressions
 
 
 
