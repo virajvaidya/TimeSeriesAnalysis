@@ -1,5 +1,7 @@
 # TimeSeriesAnalysis
+
 A collection of assessments in Time Series Analysis completed as part of my Econometrics program. I intend this particular repository to focus on Forecasting Models in Python.
+I have used Google's Cloud-based Colaboratory Jupyter IDE for the purposes of this repository.
 
 
 Topics covered in this repository include but are not limited to:
@@ -14,5 +16,7 @@ Topics covered in this repository include but are not limited to:
 8. Generalised Autoregressive Conditional Heteroskedastic (GARCH) Models
 9. Multivariate Vector Autoregressive (VAR) Models
 10. Cointegeration and Spurious Regressions
+
+
 
 Comments, suggestions always welcome. 
