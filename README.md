@@ -18,8 +18,8 @@ Topics covered in this repository include but are not limited to:
 10. Augmented Dickey-Fuller Test(ADF)
 11. Granger Causality Test
 12. Ljung-Box Test
-13. Bayesian Information Criterion
-14. Akaike Information Criterion
+13. Application of the Bayesian Information Criterion
+14. Application of the Akaike Information Criterion
 15. Autoregressive Conditional Heteroskedastic (ARCH) Models
 16. Generalised Autoregressive Conditional Heteroskedastic (GARCH) Models
 17. Multivariate Vector Autoregressive (VAR) Models
