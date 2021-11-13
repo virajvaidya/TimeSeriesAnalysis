@@ -23,7 +23,7 @@ Topics covered in this repository include but are not limited to:
 15. Autoregressive Conditional Heteroskedastic (ARCH) Models
 16. Generalised Autoregressive Conditional Heteroskedastic (GARCH) Models
 17. Multivariate Vector Autoregressive (VAR) Models
-18. Cointegeration and Spurious Regressions
+18. Cointegeration and Cointegration Tests
 
 
 
